@@ -7,7 +7,7 @@ def flatten_list(nested_list):
         else: 
             flattened.append(item)
     return flattened
-
+#reversion
 def reverse_nested_list(nested_list):
     reversed_list = []
     for item in reversed(nested_list):
